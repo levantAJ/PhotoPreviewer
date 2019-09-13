@@ -1,6 +1,4 @@
-<p align="center" >
-🏞
-</p>
+# 🏞
 
 [![Pod Version](https://cocoapod-badges.herokuapp.com/v/PhotoPreviewer/badge.png)](http://cocoadocs.org/docsets/PhotoPreviewer/)
 [![Pod Platform](https://cocoapod-badges.herokuapp.com/p/PhotoPreviewer/badge.png)](http://cocoadocs.org/docsets/PhotoPreviewer/)
